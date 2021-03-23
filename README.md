@@ -10,7 +10,7 @@
 [<img align="left" alt="Sabesan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/navya-dahiya-1b27821b2/)
 [<img align="left" alt="Sabesan | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/__n.dahiya__/)
 
-<br /><br /><br />
+<br /><br />
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=dahiya-code&theme=monokai&show_icons=true&count_private=true)
 
