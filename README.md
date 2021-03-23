@@ -6,9 +6,9 @@
 
 ### Connect with me:
 
-My webiste: [<img align="left" alt="Sabesan" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://dahiya-code.github.io/portflio/)</br>
-LinkedIn: [<img align="left" alt="Sabesan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/navya-dahiya-1b27821b2/)<br />
-Instagram: [<img align="left" alt="Sabesan | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/__n.dahiya__/)
+My webiste[<img align="left" alt="Sabesan" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://dahiya-code.github.io/portflio/)</br>
+LinkedIn[<img align="left" alt="Sabesan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/navya-dahiya-1b27821b2/)<br />
+Instagram[<img align="left" alt="Sabesan | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/__n.dahiya__/)
 
 <br /><br />
 
