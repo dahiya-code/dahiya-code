@@ -1,4 +1,4 @@
-## This is **Navya Dahiya** people!🤗
+## Hi there! This is **Navya Dahiya** !🤗
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=dahiya-code&theme=monokai&show_icons=true&count_private=true)
 
