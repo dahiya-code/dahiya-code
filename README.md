@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently a sophomore at IIT(BHU)
 - 🌱 I’m currently learning DSA, Web Development and Machine Learning
-- ⚡ I love to play paint and play badminton.
+- ⚡ I love to paint and play badminton.
 
 ### Connect with me:
 
